@@ -36,5 +36,3 @@ def merge(left, right, compare):
 
 array = [78, 41, 4, 27, 3, 27, 8, 39, 19, 34, 6, 41, 13, 52, 16]
 print(merge_sort(array))
-# merge(array)
-# print(array)
